@@ -1,0 +1,3 @@
+API : https://private-0e6b9-ganjarwidiatmansyah.apiary-mock.com/people?results=10&nat=en
+Package : com.responsi.mvp
+Minimum SDK : KitKat
